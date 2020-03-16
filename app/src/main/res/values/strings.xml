@@ -1,0 +1,7 @@
+<resources>
+    <string name="main">Конвертер валют</string>
+
+    <string name="converter">Калькулятор валюты</string>
+
+    <string name="currency_change">Выбор валюты</string>
+</resources>
